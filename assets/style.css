@@ -4,7 +4,9 @@
     box-sizing: border-box;
 }
 
-
+.container {
+    margin-bottom: 20px;
+}
 
 [class^="col-"] {
     background-color: blue;
